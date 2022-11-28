@@ -1,4 +1,4 @@
-package controller;
+package fatdb.fatdbback.controller;
 import java.util.*;
 
 public class test {

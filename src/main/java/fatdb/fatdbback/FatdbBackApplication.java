@@ -9,5 +9,4 @@ public class FatdbBackApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(FatdbBackApplication.class, args);
 	}
-
 }
