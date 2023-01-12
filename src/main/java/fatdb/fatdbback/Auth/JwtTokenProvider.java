@@ -17,6 +17,7 @@ import java.util.List;
 
 @RequiredArgsConstructor
 @Component
+//여기 미완성
 public class JwtTokenProvider {
     private String secretKey = "asdfjkldsafasdfajdsfkjaklsdfjkl";
     private final long tokenValidTime = 30 * 60 * 1000L;

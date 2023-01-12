@@ -40,6 +40,7 @@ public class MemberController {
 
     //로그인
     //처리해야할 예외처리 : 빈값
+    //동작확인
     @PostMapping("/login")
     public String loginController(@RequestBody UserDto userDto) {
         log.info("--------------login_router----------------");
